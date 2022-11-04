@@ -11,7 +11,7 @@
 
 - 🙋‍♀️ I’m a 2nd year undergrad pursuing BTech with IT.
 
-- 🔭 My major interest lies in Data Science, Machine Learning, Competitive Coding,app and Web development. I also have a deep interest in Graphic designing.
+- 🔭 My major interest lies in Competitive Coding, Problem solving and Web development.
 
 - 👧🏻 Pronouns- She/Her
 
